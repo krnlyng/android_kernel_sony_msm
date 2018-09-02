@@ -814,3 +814,5 @@ CONFIG_SUNRPC=y
 CONFIG_SUNRPC_GSS=y
 CONFIG_CIFS=y
 
+CONFIG_ANDROID_BINDER_DEVICES="binder,vndbinder,hwbinder,binder2,vndbinder2,hwbinder2"
+
