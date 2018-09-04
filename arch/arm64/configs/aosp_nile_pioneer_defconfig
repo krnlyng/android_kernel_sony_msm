@@ -816,3 +816,5 @@ CONFIG_CIFS=y
 
 CONFIG_ANDROID_BINDER_DEVICES="binder,vndbinder,hwbinder,binder2,vndbinder2,hwbinder2"
 
+CONFIG_CGROUP_SCHEDTUNE=n
+
